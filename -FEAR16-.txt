@@ -14,22 +14,22 @@ a:link { color: #933600 !important; } a:visited { color: #933600 !important; } a
 <body>
 <img src="https://i.ibb.co/frDHtf4/Radon-FEAR16.png" alt="" width="1148" height="868" usemap="#Map"/>
 <map name="Map">
-  <area shape="rect" coords="255,144,328,213" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Homepage.html" target="Nyk1">
-  <area shape="rect" coords="164,222,246,290" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-About.html" target="Nyk1">
+  <area shape="rect" coords="255,144,328,213" href="https://darkbrussel.github.io/index.html" target="Nyk1">
+  <area shape="rect" coords="164,222,246,290" href="https://darkbrussel.github.io/about.html" target="Nyk1">
   <area shape="rect" coords="44,252,131,324" href="https://imvu.com/shop/web_search.php?manufacturers_id=44194537&r=acw" target="_blank">
-  <area shape="rect" coords="1012,249,1094,325" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Love.html" target="Nyk1">
-  <area shape="rect" coords="890,219,974,297" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Customs.html" target="Nyk1">
-  <area shape="rect" coords="808,141,884,216" href="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Support.html" target="Nyk1">
+  <area shape="rect" coords="1012,249,1094,325" href="https://darkbrussel.github.io/love.html" target="Nyk1">
+  <area shape="rect" coords="890,219,974,297" href="https://darkbrussel.github.io/customs.html" target="Nyk1">
+  <area shape="rect" coords="808,141,884,216" href="https://darkbrussel.github.io/support.html" target="Nyk1">
   <area shape="rect" coords="503,803,648,815" href="https://www.such-style.com" target="_blank">
 </map>
 <div id="M" style="position:absolute;z-index: 5; height: 260px;  width: 496px; left: 459px;  top: 497px;">
-<iframe name='Nyk1' id="M" src="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Homepage.html" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
+<iframe name='Nyk1' id="M" src="https://darkbrussel.github.io/index.html" frameborder="0" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
 </div>
 <div id="M" style="position:absolute;  z-index: 5;height: 30px;width: 358px;  left: 403px; top: 195px;">
-<iframe name='Nyk' id="M" src="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Shout.html" frameborder="0" scrolling="no" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
+<iframe name='Nyk' id="M" src="https://darkbrussel.github.io/shout.html" frameborder="0" scrolling="no" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
 </div>
 <div id="M" style="position:absolute; z-index: 5;height: 170px; width: 267px; left: 168px; top: 551px;">
-<iframe name='Nyk' id="M" src="https://filedrive.gafcodes.com/users/Darkbrussel/-FEAR16-Music.html" frameborder="0" scrolling="no" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
+<iframe name='Nyk' id="M" src="https://darkbrussel.github.io/music.html" frameborder="0" scrolling="no" border="0" cellspacing="0" style="border-style: none;width: 100%; height:100%;"></iframe>
 </div>
 <div id="O" style="position:absolute; width:160px; height:220px; z-index:2; left: 493px; top: 241px;">
 <img src="https://www.imvu.com/catalog/web_av_pic.php?av=Radon" width="160" height="220">
